@@ -167,39 +167,3 @@ A simple Python project created to practice programming fundamentals, logic, and
 </table>
 
 </div>
-
-# 🎯 My Roadmap
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<b>Programming Fundamentals</b>
-
-⬇️
-
-<b>Python</b>
-
-⬇️
-
-<b>Algorithms & Problem Solving</b>
-
-⬇️
-
-<b>Web & Computer Fundamentals</b>
-
-⬇️
-
-<b>Cybersecurity</b>
-
-⬇️
-
-<b>Secure Software & Systems</b>
-
-</td>
-</tr>
-</table>
-
-</div>
