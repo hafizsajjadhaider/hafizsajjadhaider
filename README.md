@@ -139,36 +139,67 @@ A simple Python project created to practice programming fundamentals, logic, and
 
 > 🚧 More projects are coming as I continue learning and developing my skills.
 
----
-
 # 🛠️ Development Environment
 
-I currently use:
+<div align="center">
 
-| Tool | Purpose |
-|---|---|
-| **Visual Studio Code** | Main development environment |
-| **PyCharm** | Python development |
-| **Git & GitHub** | Version control and project management |
+<table>
+<tr>
+<th>Tool</th>
+<th>Purpose</th>
+</tr>
 
----
+<tr>
+<td><b>Visual Studio Code</b></td>
+<td>Main Development Environment</td>
+</tr>
+
+<tr>
+<td><b>PyCharm</b></td>
+<td>Python Development</td>
+</tr>
+
+<tr>
+<td><b>Git & GitHub</b></td>
+<td>Version Control & Project Management</td>
+</tr>
+
+</table>
+
+</div>
 
 # 🎯 My Roadmap
 
-```text
-Programming Fundamentals
-        │
-        ▼
-      Python
-        │
-        ▼
-Algorithms & Problem Solving
-        │
-        ▼
-Web & Computer Fundamentals
-        │
-        ▼
-   Cybersecurity
-        │
-        ▼
- Secure Software & Systems
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<b>Programming Fundamentals</b>
+
+⬇️
+
+<b>Python</b>
+
+⬇️
+
+<b>Algorithms & Problem Solving</b>
+
+⬇️
+
+<b>Web & Computer Fundamentals</b>
+
+⬇️
+
+<b>Cybersecurity</b>
+
+⬇️
+
+<b>Secure Software & Systems</b>
+
+</td>
+</tr>
+</table>
+
+</div>
