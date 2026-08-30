@@ -167,3 +167,37 @@ A simple Python project created to practice programming fundamentals, logic, and
 </table>
 
 </div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hafizsajjadhaider">
+<img src="https://img.shields.io/badge/GitHub-hafizsajjadhaider-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hafiz-sajjad-haider-1595aa422">
+<img src="https://img.shields.io/badge/LinkedIn-Hafiz%20Sajjad%20Haider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/hafizmuhhammadsajjad">
+<img src="https://img.shields.io/badge/Instagram-@hafizmuhhammadsajjad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923354021010">
+<img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 Let's Connect & Build Something Great
+
+**Learning • Building • Securing • Improving 🚀**
+
+</div>
