@@ -84,3 +84,10 @@ Programming Fundamentals
 Software Development
    ↓
 Cybersecurity
+
+## 📫 Contact & Socials
+
+- 💼 **LinkedIn:** [Hafiz Sajjad Haider](https://www.linkedin.com/in/hafiz-sajjad-haider-1595aa422)
+- 📸 **Instagram:** [@hafizmuhhammadsajjad](https://www.instagram.com/hafizmuhhammadsajjad)
+- 💬 **WhatsApp:** [Chat with me on WhatsApp](https://wa.me/923354021010)
+- 📱 **WhatsApp Number:** +92 335 4021010
