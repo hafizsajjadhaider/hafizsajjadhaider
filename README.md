@@ -1,93 +1,174 @@
-# 👋 Hi, I'm Hafiz Sajjad Haider
+<div align="center">
 
-### 💻 ICS Student | Aspiring Software Developer & Cybersecurity Professional
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hafiz%20Sajjad%20Haider&fontSize=48&fontAlignY=38&desc=ICS%20Student%20%7C%20Programming%20%7C%20Cybersecurity&descAlignY=60&animation=fadeIn"/>
 
-> **Learning • Building • Improving**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&center=true&vCenter=true&width=850&height=50&lines=ICS+Computer+Science+Student;Learning+Python+%7C+C+%7C+HTML;Exploring+Cybersecurity;Building+Projects+Step+by+Step" />
 
-I'm a Computer Science student interested in **programming, software development, and cybersecurity**.  
-Currently, I'm strengthening my programming fundamentals with Python while exploring the world of cybersecurity.
+<br>
 
----
+<a href="https://github.com/hafizsajjadhaider">
+<img src="https://img.shields.io/badge/GitHub-hafizsajjadhaider-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/hafiz-sajjad-haider-1595aa422">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 🎓 Currently studying **ICS Computer Science** at Forman Christian College, Lahore
-- 🐍 Currently working with **Python**
-- 💻 Learned **Python, C, and HTML**
-- 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🚀 Building small projects to improve my programming skills
-- 💡 Exploring new technologies and developing practical skills
+<a href="https://www.instagram.com/hafizmuhhammadsajjad">
+<img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
+<a href="https://wa.me/923354021010">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-## 🎓 Education
-
-### Forman Christian College (FCC), Lahore
-**Intermediate — ICS Computer Science**  
-`2026 – 2028`
-
-### Dar-e-Arqam School
-**Matriculation — Computer Science**  
-`2024 – 2026`
+</div>
 
 ---
 
-## 🛠️ Skills & Technologies
+# 👋 About Me
 
-### Programming Languages
+I'm **Hafiz Sajjad Haider**, an **ICS Computer Science student** with a strong interest in programming, technology, and cybersecurity.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+I enjoy learning by building practical projects and improving my programming skills through hands-on practice.
 
-### Tools & IDEs
+My current focus is **Python**, while continuing to strengthen my foundations in **C and HTML** and exploring the world of **cybersecurity**.
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+> 🔐 **Learning today to build secure technology tomorrow.**
 
 ---
 
-## 🚀 Projects
+# 🎓 Education
 
-### 📝 To-Do List
-A Python-based task management application for adding, viewing, deleting, and managing tasks.
+<div align="center">
 
-### 🎲 Dice Game
-A Python project created to practice programming fundamentals, logic, and user interaction.
+| Qualification | Institution | Period |
+|---|---|---|
+| **Intermediate — ICS Computer Science** | Forman Christian College, Lahore | **2026 – 2028** |
+| **Matriculation — Computer Science** | Dar-e-Arqam School | **2024 – 2026** |
 
-> 🚧 More projects are currently in development.
-
----
-
-## 🔐 Cybersecurity
-
-I'm particularly interested in the **cybersecurity field** and plan to develop my knowledge in areas such as:
-
-- 🌐 Network Security
-- 🛡️ Cyber Defense
-- 🔎 Vulnerability Discovery
-- 🐧 Linux & Security Tools
-- 🔐 Ethical Hacking
-
-My current focus is building a strong programming foundation before moving deeper into cybersecurity.
+</div>
 
 ---
 
-## 🎯 Current Focus
+# 💻 Programming & Technologies
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,html" />
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
+
+</div>
+
+---
+
+# 🧠 What I'm Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-Web%20Fundamentals-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+</div>
+
+I'm currently focusing on:
+
+- 🐍 Python programming
+- 🧩 Problem solving and programming logic
+- 💻 Programming fundamentals
+- 🌐 HTML and web fundamentals
+- 🔐 Introduction to cybersecurity
+- 🛡️ Understanding how secure systems are built
+
+---
+
+# 🔐 Cybersecurity
+
+Cybersecurity is one of my main areas of interest.
+
+I'm interested in learning how systems, networks, and applications can be protected from security threats.
+
+### Areas I'm Interested In
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Network%20Security-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Security-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux%20Security-333333?style=for-the-badge&logo=linux&logoColor=white"/>
+
+</div>
+
+My current priority is to build strong programming and computer-science fundamentals before going deeper into cybersecurity.
+
+---
+
+# 🚀 Projects
+
+## 📝 To-Do List
+
+A simple Python-based task management application.
+
+### Features
+
+- ➕ Add tasks
+- 👀 View tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as completed
+- 📊 Display task progress
+
+**Technology:** `Python`
+
+---
+
+## 🎲 Dice Game
+
+A simple Python project created to practice programming fundamentals, logic, and user interaction.
+
+**Technology:** `Python`
+
+---
+
+> 🚧 More projects are coming as I continue learning and developing my skills.
+
+---
+
+# 🛠️ Development Environment
+
+I currently use:
+
+| Tool | Purpose |
+|---|---|
+| **Visual Studio Code** | Main development environment |
+| **PyCharm** | Python development |
+| **Git & GitHub** | Version control and project management |
+
+---
+
+# 🎯 My Roadmap
 
 ```text
-Python
-   ↓
 Programming Fundamentals
-   ↓
-Software Development
-   ↓
-Cybersecurity
-
-## 📫 Contact & Socials
-
-- 💼 **LinkedIn:** [Hafiz Sajjad Haider](https://www.linkedin.com/in/hafiz-sajjad-haider-1595aa422)
-- 📸 **Instagram:** [@hafizmuhhammadsajjad](https://www.instagram.com/hafizmuhhammadsajjad)
-- 💬 **WhatsApp:** [Chat with me on WhatsApp](https://wa.me/923354021010)
-- 📱 **WhatsApp Number:** +92 335 4021010
+        │
+        ▼
+      Python
+        │
+        ▼
+Algorithms & Problem Solving
+        │
+        ▼
+Web & Computer Fundamentals
+        │
+        ▼
+   Cybersecurity
+        │
+        ▼
+ Secure Software & Systems
